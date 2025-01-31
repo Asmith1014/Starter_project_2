@@ -1,1 +1,1 @@
-# Starter_project_2
+# This is a basic BMI calculator!
